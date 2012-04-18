@@ -1,0 +1,24 @@
+A bunch of math functions in Javascript.  I will probably optimize these
+as time goes on and I learn new things.
+
+================================
+primeFactors.js ================
+================================
+  ----------------
+    primeFactors 
+  ----------------
+
+    > primeFactors(0,100)
+    [5, 5, 4]
+
+    >primeFactors(0,342)
+    [3, 3, 19, 2]
+
+  ------------------
+    primeFactorsTo 
+  ------------------
+      
+      > primeFactorsTo(100)
+      [2, 3, 4, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41,
+       43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97]
+    
